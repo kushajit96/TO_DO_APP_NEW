@@ -1,18 +1,32 @@
-This is a To do app using vanilla javascript.
+✅ To-Do App (Vanilla JavaScript) — v2
 
+A simple To-do app built with using vanilla javascript that allows user to Add/Delete task.Tasks are stored in the browser using localStorage which persist even after page refresh.
 
-FEATURES:
+Features
 
-1) Takes user input which stores it in an array using evetlisteners.
-2) Deletes the list of array with delete button.
-3) This is a basic To do app with add & delete feature.
+- Adds task using user input
+- Deletes tasks using a delete button
+- Tasks are saved in localStorage
+- Tasks remain after page refresh which earlier removes.
 
-Technologies used:
-1) HTML
-2) CSS
-3) JAVASCRIPT
+Technologies used
 
-DRAWBACKS:
-1) There is no local storage
+- HTML
+- CSS
+- JAVASCRIPT
+- LocalStorage
 
+Current Limitations
 
+- Tasks can not be edited
+- No task completion status
+- No task filtering(All/completed)
+- Basic UI design
+
+Future Improvements
+
+- Add task completion checkbox
+- Edit Task feature
+- Task Counter
+- Filter Tasks
+- Improved UI design
