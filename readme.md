@@ -8,6 +8,7 @@ Features
 - Deletes tasks using a delete button
 - Tasks are saved in localStorage
 - Tasks remain after page refresh which earlier removes.
+- Added edit task feature.
 
 Technologies used
 
@@ -16,17 +17,4 @@ Technologies used
 - JAVASCRIPT
 - LocalStorage
 
-Current Limitations
 
-- Tasks can not be edited
-- No task completion status
-- No task filtering(All/completed)
-- Basic UI design
-
-Future Improvements
-
-- Add task completion checkbox
-- Edit Task feature
-- Task Counter
-- Filter Tasks
-- Improved UI design
